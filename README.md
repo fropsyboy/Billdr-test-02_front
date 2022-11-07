@@ -31,3 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+### `environment variable`
+
+```REACT_APP_ENVIRONMENT=development
+REACT_APP_BASE_URL=https://jsonplaceholder.typicode.com
+REACT_APP_BASE_URL_AVATAR=https://ui-avatars.com/api
+REACT_APP_BASE_GOOGLE_KEY=xxxxxxxxxxxxxxxx```
